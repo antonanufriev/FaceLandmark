@@ -1,0 +1,10 @@
+F:\VSProject\dotNet\FaceLandmark\FaceLandmark\FaceLandmark\bin\Debug\netcoreapp2.1\FaceLandmark.deps.json
+F:\VSProject\dotNet\FaceLandmark\FaceLandmark\FaceLandmark\bin\Debug\netcoreapp2.1\FaceLandmark.runtimeconfig.json
+F:\VSProject\dotNet\FaceLandmark\FaceLandmark\FaceLandmark\bin\Debug\netcoreapp2.1\FaceLandmark.runtimeconfig.dev.json
+F:\VSProject\dotNet\FaceLandmark\FaceLandmark\FaceLandmark\bin\Debug\netcoreapp2.1\FaceLandmark.dll
+F:\VSProject\dotNet\FaceLandmark\FaceLandmark\FaceLandmark\bin\Debug\netcoreapp2.1\FaceLandmark.pdb
+F:\VSProject\dotNet\FaceLandmark\FaceLandmark\FaceLandmark\obj\Debug\netcoreapp2.1\FaceLandmark.csproj.CoreCompileInputs.cache
+F:\VSProject\dotNet\FaceLandmark\FaceLandmark\FaceLandmark\obj\Debug\netcoreapp2.1\FaceLandmark.AssemblyInfoInputs.cache
+F:\VSProject\dotNet\FaceLandmark\FaceLandmark\FaceLandmark\obj\Debug\netcoreapp2.1\FaceLandmark.AssemblyInfo.cs
+F:\VSProject\dotNet\FaceLandmark\FaceLandmark\FaceLandmark\obj\Debug\netcoreapp2.1\FaceLandmark.dll
+F:\VSProject\dotNet\FaceLandmark\FaceLandmark\FaceLandmark\obj\Debug\netcoreapp2.1\FaceLandmark.pdb
